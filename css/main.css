@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: var(--background);
+    color: var(--color-body);
+    line-height: 1.6;
+    height: 100vh;
+    width: 100%;
+}
+
+.navbar, .navbar code {
+    background: var(--background-nav);
+    color: var(--color-nav);
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.paragraph {
+    color: var(--color1);
+    position: relative;
+    bottom: 230px;
+}
+
+.header1 {
+    color: var(--color1);
+    position: relative;
+    bottom: 300px;
+}
+
+.header2 {
+    color: var(--color1);
+    position: relative;
+    bottom: 240px;
+}
+
+.header3 {
+    color: var(--color1);
+    position: relative;
+    bottom: 300px;
+}
+
+.header4 {
+    color: var(--color1);
+    position: relative;
+    bottom: 300px;
+}
+
+.header5 {
+    color: var(--color1);
+    position: relative;
+    bottom: 300px;
+}
+
+.header6 {
+    color: var(--color1);
+    position: relative;
+    bottom: 300px;
+}
+
+.header7 {
+    color: var(--color1);
+    position: relative;
+    bottom: 300px;
+}
+
+.header8 {
+    color: var(--color1);
+    position: relative;
+    bottom: 300px;
+}
+
+.header9 {
+    color: var(--color1);
+    position: relative;
+    bottom: 300px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.aard-item {
+    color: var(--color1);
+}
+
+.pre-item {
+    color: var(--color1);
+}
+
+.gpu-item {
+    color: var(--color1);
+}
+
+.ram-stick {
+    color: var(--color1);
+}
+
+.cpu-item {
+    color: var(--color1);
+}
+
+.mobo-item {
+    color: var(--color1);
+}
+
+.posu-item {
+    color: var(--color1);
+}
+
+.storage {
+    color: var(--color1);
+}
+
+.case-item {
+    color: var(--color1);
+}
+
